@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Idasen.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "7000"
+    }
+  }
+}
